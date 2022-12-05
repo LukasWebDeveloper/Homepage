@@ -27,6 +27,11 @@ link:
 
 [Google](https://google.com)
 
-=======
-# homepage
->>>>>>> a75ae0a6b1d1e14c2547904c12f55d08b6361ac2
+![logo](https://raw.githubusercontent.com/LukasWebDeveloper/homepage/main/img/DeviceMobil.png?token=GHSAT0AAAAAAB37PVK4723RNZXY47BXMDW6Y4N5MEA)
+
+fragment kodu: `console.log(5)`
+
+``` javascript
+let myNumber = 5;
+console.log(myNumber);
+```
