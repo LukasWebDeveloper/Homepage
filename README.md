@@ -27,7 +27,7 @@ link:
 
 [Google](https://google.com)
 
-![logo](https://raw.githubusercontent.com/LukasWebDeveloper/homepage/main/img/DeviceMobil.png?token=GHSAT0AAAAAAB37PVK4723RNZXY47BXMDW6Y4N5MEA)
+![logo](https://raw.githubusercontent.com/LukasWebDeveloper/homepage/99f56ccee3e568dd3bbb2954de504c6376fc78de/img/DeviceMobil.png?token=A4SDCYZ75YD36MFPM5NWBFDDRX7TA)
 
 fragment kodu: `console.log(5)`
 
