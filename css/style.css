@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.header__p {
+    text-align: center;
+}
+
+.body {
+    margin: 20px auto;
+    width: 1280px;
+}
