@@ -1,5 +1,5 @@
 # Łukasz Duszak - moja strona
-## Demos
+## Demo
 https://device-mobile.github.io/homepage/
 
 zwykły tekst.
