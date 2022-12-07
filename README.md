@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# Nagłówek 1
-## Nagłówek 2
+# Łukasz Duszak - moja strona
+## Demos
+https://device-mobile.github.io/homepage/
 
 zwykły tekst.
 
